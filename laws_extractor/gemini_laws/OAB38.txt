@@ -1,0 +1,402 @@
+[
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"1\",\n    \"legalPrinciples\": [\n      \"Art. 24-A da Lei nº 8.906/94\",\n      \"Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas)\",\n      \"parágrafo único do art. 243 da Constituição Federal\",\n      \"Art. 24-A caput, § 3º e §4º, da Lei nº 8.906/94\",\n      \"art. 879 e seguintes da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"2\",\n    \"legalPrinciples\": [\n      \"Art. 12 da Lei nº 8.906/94, inciso I\",\n      \"Art. 12 da Lei nº 8.906/94, inciso III\",\n      \"Art. 12 da Lei nº 8.906/94, inciso II\",\n      \"Art. 12 da Lei nº 8.906/94\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"3\",\n    \"legalPrinciples\": [\n      \"§3º do art. 70 da Lei nº 8.906/94\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"4\",\n    \"legalPrinciples\": [\n      \"Artigo 39 do Código de Ética e Disciplina da OAB (CED)\",\n      \"Artigo 45 do Código de Ética e Disciplina da OAB (CED)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"5\",\n    \"legalPrinciples\": [\n      \"Artigo 7º, §6º-C do EAOAB\",\n      \"Artigo 7º, §6º-D do EAOAB\",\n      \"Artigo 7º, §6º-F do EAOAB\",\n      \"Artigo 7º, §6º-G do EAOAB\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"6\",\n    \"legalPrinciples\": [\n      \"art. 30 do Código de Ética e Disciplina da OAB\",\n      \"§ 2º do art. 30 do Código de Ética e Disciplina da OAB\",\n      \"§3º do art. 30 do Código de Ética e Disciplina\",\n      \"§1º do art. 30 do Código de Ética e Disciplina da OAB\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"7\",\n    \"legalPrinciples\": [\n      \"Art. 7º-A, I, b, da Lei nº 8.906/94\",\n      \"Art. 7ºA, III da Lei nº 8.906/94\",\n      \"Art. 7º -A, IV c/c §3º do mesmo artigo\",\n      \"§6º do art. 313 do CPC\",\n      \"CPC art. 313, § 6º\",\n      \"art. 7º -A, III, c/c §2º do mesmo artigo\",\n      \"Art. 392 da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"8\",\n    \"legalPrinciples\": [\n      \"Art. 11, I da Lei nº 8.906/94\",\n      \"Art. 11, § 3º c/c II da Lei nº 8.906/94\",\n      \"Art. 11, IV da Lei nº 8.906/94\",\n      \"Art. 11, § 1º da Lei nº 8.906/94\",\n      \"Art. 11, § 2º da Lei nº 8.906/94\",\n      \"Art. 8º, I, V, VI e VII\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"9\",\n    \"legalPrinciples\": [\n      \"Moral social\",\n      \"Ideais morais\",\n      \"Legislação\",\n      \"Processo judicial\",\n      \"Princípios de justiça\",\n      \"Valores morais substantivos\",\n      \"Competência do poder legislativo supremo\",\n      \"Justiça\",\n      \"Moral\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"10\",\n    \"legalPrinciples\": [\n      \"Poder disciplinar\",\n      \"Controle social\",\n      \"Justiça retributiva\",\n      \"Justiça compensatória\",\n      \"Justiça reparadora\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"11\",\n    \"legalPrinciples\": [\n      \"art. 53, § 3º, da Constituição Federal\",\n      \"art. 27, § 1º, da Constituição Federal\",\n      \"art. 53 da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"12\",\n    \"legalPrinciples\": [\n      \"art. 49, IV, da Constituição Federal\",\n      \"art. 136, §§ 4º e 6º, da Constituição Federal\",\n      \"art. 137 da Constituição Federal\",\n      \"art. 136, §§ 4º e 7º, da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"13\",\n    \"legalPrinciples\": [\n      \"Art. 35 da Constituição Federal\",\n      \"Art. 36 da Constituição Federal\",\n      \"Art. 1º da Constituição Federal\",\n      \"Jurisprudência do STF\",\n      \"STF IF 590\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"14\",\n    \"legalPrinciples\": [\n      \"Art. 206, IV, da Constituição Federal\",\n      \"Art. 208, § 1º, da Constituição Federal\",\n      \"Art. 208, II, da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"15\",\n    \"legalPrinciples\": [\n      \"art. 5º, XXXVI, da Constituição Federal\",\n      \"direito adquirido\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"16\",\n    \"legalPrinciples\": [\n      \"Art. 102, I, “l”, da Constituição Federal\",\n      \"Art. 988, IV do CPC\",\n      \"Art. 105, III, da Constituição Federal\",\n      \"Art. 103-B, § 4º, da Constituição Federal\",\n      \"Art. 103-B, § 4º, I, da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"17\",\n    \"legalPrinciples\": [\n      \"Art. 14. 1 Convenção Americana sobre Direitos Humanos – CADH\",\n      \"Art. 46, a línea “a”, da CADH\",\n      \"Art. 46.2, da CADH\",\n      \"Princípios de Direito Internacional geralmente reconhecidos\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"18\",\n    \"legalPrinciples\": [\n      \"Art. 27. 1, da Convenção Americana sobre Direitos Humanos – CADH\",\n      \"art. 27.2, da CADH\",\n      \"Art. 3 (Direito ao Reconhecimento da Personalidade Jurídica), CADH\",\n      \"Art. 4 (Direito à vida), CADH\",\n      \"Art. 5 (Direito à Integridade Pessoal), CADH\",\n      \"Art. 6 (Proibição da Escravidão e Servidão), CADH\",\n      \"Art. 9 (Princípio da Legalidade e da Retroatividade), CADH\",\n      \"Art. 12 (Liberdade de Consciência e de  Religião), CADH\",\n      \"Art. 17 (Proteção da Família), CADH\",\n      \"Art. 18 (Direito ao Nome), CADH\",\n      \"Art. 19 (Direitos da Criança), CADH\",\n      \"Art. 20 (Direito à Nacionalidade), CADH\",\n      \"Art. 23 (Direitos Políticos), CADH\",\n      \"Opiniões Consultivas 08/97\",\n      \"Opiniões Consultivas 09/97\",\n      \"Artigos 25.1 da Convenção Americana sobre Direitos Humanos\",\n      \"Artigos 7.6 da Convenção Americana sobre Direitos Humanos\",\n      \"Art. 7.6 (habeas corpus), CADH\",\n      \"Art. 25.1 (amparo), CADH\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"19\",\n    \"legalPrinciples\": [\n      \"Artigo 6º da Lei 9.504/97\",\n      \"Art. 11-A da Lei 9.096/95\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"20\",\n    \"legalPrinciples\": [\n      \"Artigo 18-A, parágrafo único, da lei 9.504/97\",\n      \"Ampla defesa\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"21\",\n    \"legalPrinciples\": [\n      \"Convenção de Viena sobre relações consulares (1963)\",\n      \"Art. 43.1\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"22\",\n    \"legalPrinciples\": [\n      \"art. 10, caput, da Lei de Introdução às Normas do Direito Brasileiro (LINDB)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"23\",\n    \"legalPrinciples\": [\n      \"art. 87 do ADCT\",\n      \"§3º e §4º do art. 100 da CRFB\",\n      \"inciso I do art. 87 do ADCT\",\n      \"art. 100\",\n      \"§ 3º do art. 100 da Constituição Federal\",\n      \"art. 78 do Ato das Disposições Constitucionais Transitórias\",\n      \"§ 4º do art. 100 da Constituição Federal\",\n      \"inciso I do art. 78 do ADCT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"24\",\n    \"legalPrinciples\": [\n      \"Art. 165, § 1º da CF/88\",\n      \"Art. 47 da Constituição Federal\",\n      \"Art. 69 da CF/88\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"25\",\n    \"legalPrinciples\": [\n      \"Art. 97, II e § 2º do CTN\",\n      \"Súmula nº 160 do STJ\",\n      \"Art. 150, § 6º da Constituição\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"26\",\n    \"legalPrinciples\": [\n      \"Art. 149 da Constituição Federal\",\n      \"Art. 146, III da Constituição Federal\",\n      \"Art. 150, I e III da Constituição Federal\",\n      \"Art. 195, § 6º da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"27\",\n    \"legalPrinciples\": [\n      \"Art. 108 do CTN\",\n      \"§1º do Art. 108 do CTN\",\n      \"STF sobre veículos automotores para fins de IPVA\",\n      \"Art. 154, I, da Constituição Federal\",\n      \"Competência tributária residual da União\",\n      \"Imposto sobre transmissão causa mortis e doação, de quaisquer bens ou direitos (ITCMD)\",\n      \"Imposto sobre propriedade de veículos automotores (IPVA)\",\n      \"Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior (ICMS)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"28\",\n    \"legalPrinciples\": [\n      \"Art. 161 do CTN\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"29\",\n    \"legalPrinciples\": [\n      \"Art. 150, § 1º, da Constituição Federal\",\n      \"Art. 153 da Constituição Federal\",\n      \"Art. 153, I da Constituição Federal\",\n      \"Art. 153, § 1º da Constituição Federal\",\n      \"Art. 19 do CTN\",\n      \"Artigos 23 e 44 do Decreto-lei nº 37/1966\",\n      \"Art. 150 da Constituição Federal\",\n      \"Art. 150, III, b da Constituição Federal\",\n      \"Art. 150, III, c da Constituição Federal\",\n      \"Arts. 148, I da Constituição Federal\",\n      \"Arts. 153, I, II, IV e V da Constituição Federal\",\n      \"Art. 154, II da Constituição Federal\",\n      \"Arts. 153, I, II, III e V da Constituição Federal\",\n      \"Arts. 155, III da Constituição Federal\",\n      \"Art. 156, I da Constituição Federal\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"30\",\n    \"legalPrinciples\": [\n      \"REsp 1878849-TO\",\n      \"Lei Complementar n. 101/2000, art. 22, parágrafo único, inciso I\",\n      \"Lei 12.527/2011, art. 24, § 2º\",\n      \"Lei 12.527/2011, art. 5º\",\n      \"Lei 12.527/2011, art. 7º, V\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"31\",\n    \"legalPrinciples\": [\n      \"art. 11 da Lei 8.429/92\",\n      \"art. 11, § 1º, da Lei 8.429/92\",\n      \"artigo 11, XI, da Lei 8.429/92\",\n      \"artigo 11, IV, da Lei 8.429/92\",\n      \"art. 11, § 4º, da Lei 8.429/92\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"32\",\n    \"legalPrinciples\": [\n      \"art. 14, caput, da Lei 9.784/99\",\n      \"art. 14, § 2º, da Lei 9.784/99\",\n      \"art. 12, caput, da Lei 9.784/99\",\n      \"art. 15 da Lei 9.784/99\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"33\",\n    \"legalPrinciples\": [\n      \"art. 6º, XLII, da Lei 14.133/2021\",\n      \"artigo 32, I, alíneas a, b, c, da Lei 14.133/2021\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"34\",\n    \"legalPrinciples\": [\n      \"art. 40 do Decreto-Lei 3.365/41\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"35\",\n    \"legalPrinciples\": [\n      \"Art. 24, CRFB/88\",\n      \"Art. 22 da Constituição Federal\",\n      \"Art. 24, VI, da Constituição da República\",\n      \"Jurisprudência do Supremo Tribunal Federal (STF)\",\n      \"RE 732686\",\n      \"Art. 30, incisos I e II, CRFB/88\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"36\",\n    \"legalPrinciples\": [\n      \"Lei 9.433/97\",\n      \"inciso II do art. 12 da Lei 9.433/97\",\n      \"inciso I do art. 26 da CRFB/88\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"37\",\n    \"legalPrinciples\": [\n      \"art. 275 do CC/02\",\n      \"art. 257 do CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"38\",\n    \"legalPrinciples\": [\n      \"art. 822 do CC/02\",\n      \"art. 827, caput, do CC/02\",\n      \"art. 829, caput, do CC/02\",\n      \"art. 819 do CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"39\",\n    \"legalPrinciples\": [\n      \"art. 1.696 do CC/02\",\n      \"Entendimento do STJ\",\n      \"Súmula nº 358 do STJ\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"40\",\n    \"legalPrinciples\": [\n      \"art. 1.831 do CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"41\",\n    \"legalPrinciples\": [\n      \"Art. 56 da Lei nº 6.015 (Lei de Registros Públicos)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"42\",\n    \"legalPrinciples\": [\n      \"art. 1.285, caput e § 1º, do CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"43\",\n    \"legalPrinciples\": [\n      \"art. 185, caput, do Estatuto da Criança e do Adolescente\",\n      \"art. 185, §2º, do Estatuto da Criança e do Adolescente\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"44\",\n    \"legalPrinciples\": [\n      \"art. 208, inciso III, da Constituição Federal\",\n      \"art. 54, inciso III, do Estatuto da Criança e do Adolescente – ECA\",\n      \"AgRg no AGRAVO EM RECURSO ESPECIAL Nº 790.767 – MG\",\n      \"Direitos Fundamentais\",\n      \"princípio do majoritário\",\n      \"mínimo existencial\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"45\",\n    \"legalPrinciples\": [\n      \"Súmula 608 do STJ\",\n      \"Código de Defesa do Consumidor\",\n      \"Súmula 302 do STJ\",\n      \"artigo 51 do CDC\",\n      \"art. 156 do CC/2002\",\n      \"Resolução Normativa 44/03 da Agência Nacional de Saúde Suplementar\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"46\",\n    \"legalPrinciples\": [\n      \"Artigo 12 do CDC\",\n      \"Artigo 13 do CDC\",\n      \"Responsabilidade pelo fato do produto\",\n      \"REsp 980.860/SP\",\n      \"Vício de segurança\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"47\",\n    \"legalPrinciples\": [\n      \"Lei de nº 8.934/1994, artigo 35, inciso V\",\n      \"Artigo 1155 CC/02\",\n      \"Artigo 1033, inc. I\",\n      \"Artigo 1057 do CC/02\",\n      \"Artigo 1071 do CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"48\",\n    \"legalPrinciples\": [\n      \"Artigo 1156 CC/02\",\n      \"Artigo 1157 CC/02\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"49\",\n    \"legalPrinciples\": [\n      \"art. 15, alínea II da LUC\",\n      \"artigo 15, alínea II da LUG\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"50\",\n    \"legalPrinciples\": [\n      \"Artigo 1056 do Código Civil de 2002\",\n      \"§ 2º do art. 1056 CC/02\",\n      \"§ 1º do artigo 1056 CC/02\",\n      \"Artigo 1057 do CC/02\",\n      \"REsp 1.570.452 (STJ)\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"51\",\n    \"legalPrinciples\": [\n      \"art. 334, §4º, do Código de Processo Civil\",\n      \"art. 334, §8º, do CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"52\",\n    \"legalPrinciples\": [\n      \"Art. 385, §1º, do Código de Processo Civil – CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"53\",\n    \"legalPrinciples\": [\n      \"art. 601, parágrafo único, do Código de Processo Civil\",\n      \"art. 603, caput e §1º, do CPC\",\n      \"Art. 603, 1§º, do CPC\",\n      \"art. 600, inciso I, do CPC\",\n      \"art. 603 do CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"54\",\n    \"legalPrinciples\": [\n      \"Art. 98, §3º, do Código de Processo Civil – CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"55\",\n    \"legalPrinciples\": [\n      \"art. 809, caput, do Código de Processo Civil – CPC\",\n      \"art. 809, §2º do CPC\",\n      \"art. 809, §1º, do CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"56\",\n    \"legalPrinciples\": [\n      \"art. 1.030, inciso I, alínea “a” c/c 1.030, §2º, do Código de Processo Civil\",\n      \"art. 1.021 do Código de Processo Civil\",\n      \"art. 1.030, caput, do CPC\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"57\",\n    \"legalPrinciples\": [\n      \"artigo 5º, XXXIX, da CF\",\n      \"artigo 1º do CP\",\n      \"artigo 155, §3º, do CP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"58\",\n    \"legalPrinciples\": [\n      \"Artigo 312, §3º, do CP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"59\",\n    \"legalPrinciples\": [\n      \"artigo 217-A do CP\",\n      \"artigo 128, II\",\n      \"artigo 124 do CP\",\n      \"artigo 125\",\n      \"artigo 126, parágrafo único, do CP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"60\",\n    \"legalPrinciples\": [\n      \"Art. 304 do Código de Trânsito Brasileiro\",\n      \"Crime de omissão de socorro\",\n      \"Crime de mera conduta\",\n      \"Concausa absolutamente independente\",\n      \"Art. 302 do CTB\",\n      \"Art. 302, §1º, III, do CTB\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"61\",\n    \"legalPrinciples\": [\n      \"art. 44, I, do Código Penal\",\n      \"súmula n. 588 do STJ\",\n      \"súmula nº 536 do STJ\",\n      \"art. 77 do Código Penal\",\n      \"AgRg no REsp 1.691.667/RJ\",\n      \"art. 17 da lei nº 11.340/2006\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"62\",\n    \"legalPrinciples\": [\n      \"Erro de tipo permissivo (discriminante putativa)\",\n      \"Art. 20, §1º, primeira parte do CP\",\n      \"Erro de tipo incriminador\",\n      \"Erro escusável\",\n      \"Erro inescusável\",\n      \"Art. 20, caput, do CP\",\n      \"Erro de proibição\",\n      \"Artigo 21 do CP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"63\",\n    \"legalPrinciples\": [\n      \"Artigo 130, II, do CPP\",\n      \"Súmula 267 do STF\",\n      \"Artigo 5,II, da 12.016/09\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"64\",\n    \"legalPrinciples\": [\n      \"Artigo 301 do CPP\",\n      \"RHC 51.531/RO\",\n      \"HC 695.457\",\n      \"REsp 1920404/PA\",\n      \"HC 663.055/MT\",\n      \"Artigo 248 do CPP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"65\",\n    \"legalPrinciples\": [\n      \"artigo 5º, §2º, do CPP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"66\",\n    \"legalPrinciples\": [\n      \"Artigo 358 do CPP\",\n      \"Artigo 362 do CPP\",\n      \"Artigo 353 do CPP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"67\",\n    \"legalPrinciples\": [\n      \"artigo 129, §1º, do CP\",\n      \"artigo 61 da Lei 9.099/95\",\n      \"artigo 41 da Lei Maria da Penha\",\n      \"artigo 109, IX, da CF\",\n      \"artigo 89 do CPP\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"68\",\n    \"legalPrinciples\": [\n      \"Artigo 180, §3º, do CP\",\n      \"Art. 156 do Código de Processo Penal\",\n      \"HC 626.539/RJ\",\n      \"Artigo 304 do Código Penal\",\n      \"HC 307.586/SE\",\n      \"Súmula 243 do STJ\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"69\",\n    \"legalPrinciples\": [\n      \"Decreto nº 3.049/1999\",\n      \"art. 9º, V, “e”, item “4”, do Decreto nº 3.049/1999\",\n      \"Decreto nº 10.410/2020\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"70\",\n    \"legalPrinciples\": [\n      \"art. 29, III, do Decreto nº 3.048/1999\",\n      \"art. 30, II, do Decreto nº 3.048/1999\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"71\",\n    \"legalPrinciples\": [\n      \"art. 16 da Lei 8.036/90\",\n      \"legislação trabalhista\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"72\",\n    \"legalPrinciples\": [\n      \"art. 1º da Lei 6.858/80\",\n      \"legislação específica dos servidores civis e militares\",\n      \"lei civil\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"73\",\n    \"legalPrinciples\": [\n      \"Art. 4º, § 2º, inciso VII da CLT\",\n      \"Art. 456-A da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"74\",\n    \"legalPrinciples\": [\n      \"Art. 443, § 3º, da CLT\",\n      \"Art. 3º da CLT\",\n      \"Art. 1º da LC 150/2015\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"75\",\n    \"legalPrinciples\": [\n      \"art. 468, § 1º da CLT\",\n      \"Súmula 159, II, do TST\",\n      \"Súmula 159, I, do TST\",\n      \"art. 450 da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"76\",\n    \"legalPrinciples\": [\n      \"Art. 855-B da CLT\",\n      \"§ 1º do art. 855-B da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"77\",\n    \"legalPrinciples\": [\n      \"art. 895, II, da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"78\",\n    \"legalPrinciples\": [\n      \"Art. 793-B, VI, da CLT\",\n      \"Art. 793-C, § 2º, da CLT\",\n      \"Art. 793-B, I, da CLT\",\n      \"Art. 793-C, caput, da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"79\",\n    \"legalPrinciples\": [\n      \"Art. 884, caput, da CLT\",\n      \"Art. 879, § 2º, da CLT\"\n    ]\n  }\n]"
+    }
+  ],
+  [
+    {
+      "generated_text": "[\n  {\n    \"QuestionNumber\": \"80\",\n    \"legalPrinciples\": [\n      \"Súmula 9 do TST\",\n      \"Súmula 74, I, do TST\"\n    ]\n  }\n]"
+    }
+  ]
+]
